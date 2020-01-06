@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="right-down" width="10" height="20" tilewidth="32" tileheight="32" infinite="0" nextobjectid="3">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="48" columns="8">
+  <image source="tileset.png" width="256" height="192"/>
+  <tile id="31">
+   <properties>
+    <property name="label" value="stone"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="background" width="10" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyTY2BgkKMCViNBrToJahWo5D5cWIPG5pMTPtTC8gNgJyn20ivsKcEAMm8Xog==
+  </data>
+ </layer>
+ <layer name="obstacle" width="10" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAu4ELDAwHQ3UBLd+CyQwkN08N+eoQ3sfbQMw6QAT+VMQCqTgKb
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="1" name="start" x="16.6667" y="47.3333">
+   <properties>
+    <property name="label" value="start"/>
+   </properties>
+  </object>
+  <object id="2" name="boat" x="285.333" y="571.333">
+   <properties>
+    <property name="label" value="boat"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

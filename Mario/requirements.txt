@@ -1,0 +1,6 @@
+cocos2d==0.6.7
+future==0.18.2
+numpy==1.18.0
+pyglet==1.4.8
+pyglet-ffmpeg2==0.1.16
+six==1.13.0

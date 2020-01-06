@@ -1,24 +1,19 @@
 # python-game-book
-### Demo games of the book ***Learn Python Games From Zero***
-------
-This repositery contains all the demo program of the book ***Learn Python Games From Zero***,they are:
-1. **PlaneWars**
-  + Introduction:
-  A demo plane wars game based on Pygame
-  + Run:
-2. **PygameSmallSamples**
-  + Introduction:
-  All other small demo code based on Pygame
-  + Run:
-3. **Tetris**
-  + Introduction:
-  A demo Teris game based on Cocos2d
-  + Run:
-4. **Mario**
-  + Introduction:
-  A demo Super Merio Bro World1-1 game based on Cocos2d
-  + Run:
-5. **CocosSmallSamples**
-  + Introduction:
-  All other small demo code based on Cocos2d
-  + Run:
+
+This repositery contains all the demo codes of the book ***Learn Python Games From Zero***,they are:
+
+#### PygameSmallSamples
+  All other small Pygame demo codes in chapter 2
+
+#### PlaneWars
+  A demo plane wars game based on Pygame in chapter 3
+
+#### Tetris
+  A demo Teris game based on Cocos2d in chapter 5
+
+#### CocosSmallSamples
+  All other small Cocos2d demo codes in chapter 6
+
+#### Mario
+  A demo Super Merio Bro World1-1 game based on Cocos2d in chapter 7
+  

@@ -2,6 +2,8 @@
 
 This repositery contains all the demo codes of the book ***Learn Python Games From Zero***, they are:
 
+
+
 ## PygameSmallSamples
   All other small Pygame demo codes in chapter 2
 

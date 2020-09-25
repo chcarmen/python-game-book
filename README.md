@@ -7,6 +7,7 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
 ## PygameSmallSamples
   All other small Pygame demo codes in chapter 2  
   第二章中的一些小型示例程序, 使用 Pygame 开发
+  ![](D:\CARMEN\2019\python_game_book\book\github\2.png)
 
 ## PlaneWars
   A demo plane wars game based on Pygame in chapter 3  

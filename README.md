@@ -29,7 +29,7 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
 
 ## Outlook of this book
   这本书的封面
-  !(https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg){ImgCap}{/ImgCap}
+  !(https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg)
   
 ## content
   内容与目录

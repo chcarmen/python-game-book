@@ -42,7 +42,7 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   购买链接
   <https://item.jd.com/12981102.html>
   
-## content
+## Content
   内容与目录
   
   第1章起步1

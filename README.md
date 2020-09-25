@@ -27,6 +27,10 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
 # 2. details of this book
 关于此书籍的详情介绍
   
+## Purchase link
+  购买链接
+  <https://item.jd.com/12981102.html>
+  
 ## content
   内容与目录
   
@@ -421,10 +425,7 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   后记376
 
   参考文献377
-  
-## Purchase link
-  购买链接
-  <https://item.jd.com/12981102.html>
+ 
 
 ## Outlook of this book  
   这本书的封面  

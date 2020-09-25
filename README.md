@@ -26,10 +26,6 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   
 # 2. details of this book
 关于此书籍的详情介绍
-
-## Outlook of this book  
-  这本书的封面  
-  ![](https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg)
   
 ## content
   内容与目录
@@ -140,7 +136,7 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
 
   3.15小结112
 
-  零基础入门Python游戏目录第4章Cocos2d Ⅰ113
+  第4章Cocos2d Ⅰ113
 
   4.1Cocos2d简介113
 
@@ -430,4 +426,6 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   购买链接
   <https://item.jd.com/12981102.html>
 
-
+## Outlook of this book  
+  这本书的封面  
+  ![](https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg)

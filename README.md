@@ -1,7 +1,7 @@
 # 1. Repositery Introduction
 代码仓库简介
 
-This repositery contains all the demo codes of the book ***Learn Python Games From Zero***, they are:
+This repositery contains all the demo codes of the book ***Learn Python Games From Zero***, they are:  
 此代码仓库为《零基础入门Python游戏》一书的配套示例程序。它涵盖了以下一些目录：
 
 ## PygameSmallSamples
@@ -27,8 +27,8 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
 # 2. details of this book
 关于此书籍的详情介绍
 
-## Outlook of this book
-  这本书的封面
+## Outlook of this book  
+  这本书的封面  
   ![](https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg)
   
 ## content

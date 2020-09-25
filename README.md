@@ -7,26 +7,31 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
 ## PygameSmallSamples
   All other small Pygame demo codes in chapter 2  
   第二章中的一些小型示例程序, 使用 Pygame 开发  
+  
   ![2.png](https://i.loli.net/2020/09/25/9R3pvCFbYZX4chu.png)
 
 ## PlaneWars
   A demo plane wars game based on Pygame in chapter 3  
   第三章中的飞机大战示例程序, 使用 Pygame 开发  
+  
   ![3.png](https://i.loli.net/2020/09/25/BhnqSAbjs2QGCzi.png)
 
 ## Tetris
   A demo Teris game based on Cocos2d in chapter 5  
   第五章中的俄罗斯方块示例程序, 使用 Cocos2d 开发  
+  
   ![5.png](https://i.loli.net/2020/09/25/JmqAn5xyf14pkco.png)
 
 ## CocosSmallSamples
   All other small Cocos2d demo codes in chapter 6  
   第六章中的一些小型示例程序, 使用 Cocos2d 开发  
+  
   ![6.png](https://i.loli.net/2020/09/25/iauCsOpIY3vL41y.png)
 
 ## Mario
   A demo Super Merio Bro World1-1 game based on Cocos2d in chapter 7  
   第七章中的超级马利奥示例程序, 使用 Cocos2d 开发  
+  
   ![7.png](https://i.loli.net/2020/09/25/GFbfArHKEo7qpLe.png)
   
 # 2. details of this book
@@ -434,4 +439,5 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
 
 ## Outlook of this book  
   这本书的封面以及其他一些信息
+  
   ![](https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg)

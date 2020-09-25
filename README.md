@@ -34,7 +34,8 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   
   ![7.png](https://i.loli.net/2020/09/25/GFbfArHKEo7qpLe.png)
   
-# 2. details of this book
+  
+# 2. Details of this book
 关于此书籍的详情介绍
   
 ## Purchase link

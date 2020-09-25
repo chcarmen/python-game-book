@@ -1,4 +1,4 @@
-# Repositery Introduction
+# 1. Repositery Introduction
 代码仓库简介
 
 This repositery contains all the demo codes of the book ***Learn Python Games From Zero***, they are:
@@ -24,12 +24,12 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   A demo Super Merio Bro World1-1 game based on Cocos2d in chapter 7
   第七章中的超级马利奥示例程序, 使用 Cocos2d 开发
   
-# details of this book
+# 2. details of this book
 关于此书籍的详情介绍
 
 ## Outlook of this book
   这本书的封面
-  !(https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg)
+  !(https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg){ImgCap}{/ImgCap}
   
 ## content
   内容与目录

@@ -29,7 +29,7 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   ![6.png](https://i.loli.net/2020/09/25/iauCsOpIY3vL41y.png)
 
 ## Mario
-  A demo Super Merio Bro World1-1 game based on Cocos2d in chapter 7  
+  A demo Super Mario Bro World1-1 game based on Cocos2d in chapter 7  
   第七章中的超级马利奥示例程序, 使用 Cocos2d 开发  
   
   ![7.png](https://i.loli.net/2020/09/25/GFbfArHKEo7qpLe.png)

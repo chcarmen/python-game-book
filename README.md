@@ -442,3 +442,9 @@ This repositery contains all the demo codes of the book ***Learn Python Games Fr
   这本书的封面以及其他一些信息
   
   ![](https://img30.360buyimg.com/vc/jfs/t1/139411/8/9087/2259244/5f6afb05Ecfda8edf/953ed86450e214b6.jpg)
+
+
+# 3. Group chat
+读者 QQ 群
+
+  ![qrcode_1613963776653.jpg](https://i.loli.net/2021/02/22/Hg7yiW9IqbSAsMt.jpg)
